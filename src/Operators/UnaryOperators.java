@@ -25,11 +25,11 @@ public class UnaryOperators {
 
         //decrement
         int b = 10;
-        System.out.println(a);//10
+        System.out.println(b);//10
         //post decrement
         System.out.println(b--);//10
         //pre decrement
-        System.out.println(--b);//9
+        System.out.println(--b);//8
     }
     static void unaryPLusMinus(){
 
